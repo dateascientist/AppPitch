@@ -99,7 +99,7 @@ Thank you for your time in evaluating my app!
 
 <br><br><br><br>
 All code for this presentation can be found at:
-www.githublink.com
+https://github.com/ilikefishes/AppPitch
 
 
 
